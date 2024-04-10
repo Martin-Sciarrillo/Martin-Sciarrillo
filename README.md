@@ -34,7 +34,7 @@
 ### 2021
 
 * [XXXXX](https://www.XXXXX) @ XXXXX
-* [Microsoft Ignite - Innovate across Hybrid and Multicloud with Azure Arc] (https://youtu.be/t6hsviug0Tg?t=1346)
+* [Microsoft Ignite - Innovate across Hybrid and Multicloud with Azure Arc](https://youtu.be/t6hsviug0Tg?t=1346)
 
 ### 2020
 
