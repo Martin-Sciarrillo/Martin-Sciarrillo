@@ -18,7 +18,7 @@
 
 ## Public Speaking & Events 🎙️
 
-<img src="1.jpg" alt="Image Alt Text">
+<img src="2.JPG" alt="Image Alt Text">
 
 
 * [XXXXX](https://www.XXXXX) @ XXXXX
