@@ -12,7 +12,14 @@
 
 🚀 I hold a systems analyst degree ORT Argentina. Additionally, I have received management training at Universidad Di Tella (UTDT) and Universidad de San Andrés (UdeSA), where I also served as a thesis tutor for the Master’s in Digital Business. I have been married to Vicky for 6 years, and we have a 5-year-old daughter named Miranda! 
 
+
+
+
+
 ## Public Speaking & Events 🎙️
+
+<img src="1.jpg" alt="Image Alt Text">
+
 
 * [XXXXX](https://www.XXXXX) @ XXXXX
 * [XXXXX](https://www.XXXXX) @ XXXXX
