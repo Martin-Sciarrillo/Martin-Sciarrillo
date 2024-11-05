@@ -92,17 +92,8 @@
 <li><a href="https://news.microsoft.com/es-xl/innovar-a-traves-de-entornos-hibridos-y-de-nube-multiple-con-nuevas-capacidades-de-azure-arc/">Innovar a través de entornos híbridos y de nube múltiple con nuevas capacidades de Azure Arc</a> @ Microsoft News</li>
 <li><a href="https://youtu.be/hyVTToYOIBM?t=1198">Video: Innovar con Azure Arc</a> @ YouTube</li>
 <li><a href="https://youtu.be/t6hsviug0Tg?t=1346">Video: Entornos híbridos y nube múltiple</a> @ YouTube</li>
-<li><a href="https://es.slideshare.net/MartinSciarrillo1/spotlight-feature-interview-martin-sciarrillo-global-lead-for-linux-services">Spotlight Feature Interview: Martin Sciarrillo, Global Lead for Linux Services</a> @ SlideShare</li>
+
+### 2016
+
+* <li><a href="https://es.slideshare.net/MartinSciarrillo1/spotlight-feature-interview-martin-sciarrillo-global-lead-for-linux-services">Spotlight Feature Interview: Martin Sciarrillo, Global Lead for Linux Services</a> @ SlideShare</li>
     </ul>
-
-
-
-
-### 2021
-
-* [XXXXX](https://www.XXXXX) @ XXXXX
-* [Microsoft Ignite - Innovate across Hybrid and Multicloud with Azure Arc](https://youtu.be/t6hsviug0Tg?t=1346)
-
-### 2020
-
-* [XXXXX](https://www.XXXXX) @ XXXXX
