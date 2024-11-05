@@ -18,6 +18,14 @@
 
 ## Public Speaking & Events 🎙️
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    
+</head>
+<body>
+
 <img src="Idea 1.jpeg" alt="Idea 1" style="width: 150px; margin: 10px;">
 <img src="Idea 2.jpg" alt="Idea 2" style="width: 150px; margin: 10px;">
 <img src="Barrios.jpg" alt="Barrios" style="width: 150px; margin: 10px;">
@@ -33,6 +41,9 @@
 <img src="US Embassy.jpg" alt="US Embassy" style="width: 150px; margin: 10px;">
 <img src="Worktech 1.jpg" alt="Worktech 1" style="width: 150px; margin: 10px;">
 <img src="worktech 2.jpg" alt="Worktech 2" style="width: 150px; margin: 10px;">
+
+</body>
+</html>
 
 ## In the News 📰
 
