@@ -1,3 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Galería de Imágenes</title>
+    <style>
+        .thumbnail {
+            width: 150px;
+            height: auto;
+            margin: 10px;
+            transition: 0.3s;
+        }
+        .thumbnail:hover {
+            cursor: pointer;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgb(0,0,0);
+            background-color: rgba(0,0,0,0.9);
+        }
+        .modal-content {
+            margin: auto;
+            display: block;
+            width: 80%;
+            max-width: 700px;
+        }
+        .modal-content, #caption {
+            animation-name: zoom;
+            animation-duration: 0.6s;
+        }
+        @keyframes zoom {
+            from {transform: scale(0)}
+            to {transform: scale(1)}
+        }
+        .close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .close:hover,
+        .close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Galería de Imágenes</h2>
+
+<img class="thumbnail" src="Idea 1.jpeg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Idea 2.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Barrios.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="11.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Consejo.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Fernandez.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Forbes.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Migoya.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Nerdearla 2022.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Nerdearla 2023.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Nerdearla 2024.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="TECO Summit.jpeg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="US Embassy.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="Worktech 1.jpg" alt="Image Alt Text" onclick="openModal(this)">
+<img class="thumbnail" src="worktech 2.jpg" alt="Image Alt Text" onclick="openModal(this)">
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <img class="modal-content" id="img01">
+    <div id="caption"></div>
+</div>
+
+<script>
+function openModal(element) {
+    var modal = document.getElementById("myModal");
+    var modalImg = document.getElementById("img01");
+    var captionText = document.getElementById("caption");
+    modal.style.display = "block";
+    modalImg.src = element.src;
+    captionText.innerHTML = element.alt;
+}
+
+function closeModal() {
+    var modal = document.getElementById("myModal");
+    modal.style.display = "none";
+}
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
 # About Me /Work in progress/
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40MartinSciarrillo-239a3b.svg)](https://github.com/Martin-Sciarrillo)
@@ -35,9 +144,6 @@
 <img src="worktech 2.jpg" alt="Image Alt Text">
 
 
-* [XXXXX](https://www.XXXXX) @ XXXXX
-* [XXXXX](https://www.XXXXX) @ XXXXX
-
 ## In the News 📰
 
 ### 2024
@@ -49,9 +155,6 @@
 * [XXXXX](https://www.XXXXX) @ XXXXX
 
 ### 2022
-
-* [XXXXX](https://www.XXXXX) @ XXXXX
-
 
 <li><a href="https://news.microsoft.com/es-xl/ypf-explora-la-computacion-cuantica-para-el-desarrollo-de-la-transicion-energetica-junto-a-microsoft/">YPF explora la computación cuántica para el desarrollo de la transición energética junto a Microsoft</a> @ Microsoft News</li>
         <li><a href="https://www.forbesargentina.com/summit/agricultura-precision-relevancia-medicion-campo-n23127">Agricultura de precisión: la relevancia de la medición en el campo</a> @ Forbes Argentina</li>
@@ -95,5 +198,5 @@
 
 ### 2016
 
-* <li><a href="https://es.slideshare.net/MartinSciarrillo1/spotlight-feature-interview-martin-sciarrillo-global-lead-for-linux-services">Spotlight Feature Interview: Martin Sciarrillo, Global Lead for Linux Services</a> @ SlideShare</li>
+<li><a href="https://es.slideshare.net/MartinSciarrillo1/spotlight-feature-interview-martin-sciarrillo-global-lead-for-linux-services">Spotlight Feature Interview: Martin Sciarrillo, Global Lead for Linux Services</a> @ SlideShare</li>
     </ul>
