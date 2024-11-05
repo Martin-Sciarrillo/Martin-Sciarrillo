@@ -18,8 +18,10 @@
 
 ## Public Speaking & Events 🎙️
 
+<img src="Idea 1.jpeg" alt="Idea 1">
+
 <img src="Idea 1.jpeg" alt="Idea 1" style="width: 150px; margin: 10px;"><img src="Idea 2.jpg" alt="Idea 2" style="width: 150px; margin: 10px;"><img src="Barrios.jpg" alt="Barrios" style="width: 150px; margin: 10px;">
-<img src="11.jpg" alt="11" style="width: 150px; margin: 10px;"><img src="Consejo.jpg" alt="Consejo" style="width: 150px; margin: 10px;"><img src="Fernandez.jpg" alt="Fernandez" style="width: 150px; margin: 10px;"><img src="Forbes.jpg" alt="Forbes" style="width: 150px; margin: 10px;"><img src="Migoya.jpg" alt="Migoya" style="width: 150px; margin: 10px;"><img src="Nerdearla 2022.jpg" alt="Nerdearla 2022" style="width: 150px; margin: 10px;"><img src="Nerdearla 2023.jpg" alt="Nerdearla 2023" style="width: 150px; margin: 10px;"><img src="Nerdearla 2024.jpg" alt="Nerdearla 2024" style="width: 150px; margin: 10px;"><img src="TECO Summit.jpeg" alt="TECO Summit" style="width: 150px; margin: 10px;"><img src="US Embassy.jpg" alt="US Embassy" style="width: 150px; margin: 10px;"><img src="Worktech 1.jpg" alt="Worktech 1" style="width: 150px; margin: 10px;"><img src="worktech 2.jpg" alt="Worktech 2" style="width: 150px; margin: 10px;">
+<img src="11.jpg" alt="11" style="width: 150px; margin: 10px;"><img src="Fernandez.jpg" alt="Fernandez" style="width: 150px; margin: 10px;"><img src="Forbes.jpg" alt="Forbes" style="width: 150px; margin: 10px;"><img src="Migoya.jpg" alt="Migoya" style="width: 150px; margin: 10px;"><img src="Nerdearla 2022.jpg" alt="Nerdearla 2022" style="width: 150px; margin: 10px;"><img src="Nerdearla 2023.jpg" alt="Nerdearla 2023" style="width: 150px; margin: 10px;"><img src="Nerdearla 2024.jpg" alt="Nerdearla 2024" style="width: 150px; margin: 10px;"><img src="TECO Summit.jpeg" alt="TECO Summit" style="width: 150px; margin: 10px;"><img src="US Embassy.jpg" alt="US Embassy" style="width: 150px; margin: 10px;"><img src="Worktech 1.jpg" alt="Worktech 1" style="width: 150px; margin: 10px;"><img src="worktech 2.jpg" alt="Worktech 2" style="width: 150px; margin: 10px;">
 
 ## In the News 📰
 
