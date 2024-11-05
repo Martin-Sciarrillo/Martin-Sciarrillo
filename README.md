@@ -18,7 +18,21 @@
 
 ## Public Speaking & Events 🎙️
 
-<img src="2.JPG" alt="Image Alt Text">
+<img src="Idea 1.jpeg" alt="Image Alt Text">
+<img src="Idea 2.jpg" alt="Image Alt Text">
+<img src="Barrios.jpg" alt="Image Alt Text">
+<img src="11.jpg" alt="Image Alt Text">
+<img src="Consejo.jpg" alt="Image Alt Text">
+<img src="Fernandez.jpg" alt="Image Alt Text">
+<img src="Forbes.jpg" alt="Image Alt Text">
+<img src="Migoya.jpg" alt="Image Alt Text">
+<img src="Nerdearla 2022.jpg" alt="Image Alt Text">
+<img src="Nerdearla 2023.jpg" alt="Image Alt Text">
+<img src="Nerdearla 2024.jpg" alt="Image Alt Text">
+<img src="TECO Summit.jpeg" alt="Image Alt Text">
+<img src="US Embassy.jpg" alt="Image Alt Text">
+<img src="Worktech 1.jpg" alt="Image Alt Text">
+<img src="worktech 2.jpg" alt="Image Alt Text">
 
 
 * [XXXXX](https://www.XXXXX) @ XXXXX
