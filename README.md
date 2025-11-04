@@ -4,16 +4,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40Acatincho-58a1f2.svg)](https://twitter.com/Acatincho)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/sciarrillo/)
 
-👋 I am [@Martin-Sciarrillo](https://github.com/Martin-Sciarrillo) i was the CTO of Microsoft Argentina from March 2021 to July 2023 when i assumed a new role as Director of Data and Artificial Intelligence for Spanish South America (SSA), which includes Argentina, Chile, Bolivia, Colombia, Ecuador, Paraguay, Peru, and Uruguay 
+👋 I am [@Martin-Sciarrillo](https://github.com/Martin-Sciarrillo) — Executive Technology Strategist at Microsoft Argentina. I work with C-level leaders to turn AI, data and cloud technologies into real business outcomes — not just innovation theater. Previously, I served as Director of Data & AI for Spanish South America and CTO at Microsoft Argentina.
 
 🌟 In this position, i am responsible for guiding Microsoft’s clients in accelerating their digital transformation. This involves adopting cloud technologies, leveraging AI-driven insights to shape their strategies, optimizing business processes, and achieving more with less. I work closely with clients in an agile manner, helping them maximize the impact of Microsoft technology within their organizations.
 
 🌎 I bring over 20 years of experience in Fortune 500 companies. Prior to Microsoft, I served as the Global Leader of Multicloud Platforms at EY, where I focused on expanding the company’s products and services across hybrid and cloud environments in the United States, Europe, and Asia. Before my time at EY, I was part of IBM’s global services center, leading technology teams that provided services primarily to clients in the United States.
 
 🚀 I hold a systems analyst degree ORT Argentina. Additionally, I have received management training at Universidad Di Tella (UTDT) and Universidad de San Andrés (UdeSA), where I also served as a thesis tutor for the Master’s in Digital Business. I have been married to Vicky for 6 years, and we have a 5-year-old daughter named Miranda! 
-
-
-
 
 
 ## Public Speaking & Events 🎙️
@@ -79,3 +76,4 @@
 
 <li><a href="https://es.slideshare.net/MartinSciarrillo1/spotlight-feature-interview-martin-sciarrillo-global-lead-for-linux-services">Spotlight Feature Interview: Martin Sciarrillo, Global Lead for Linux Services</a> @ SlideShare</li>
     </ul>
+
