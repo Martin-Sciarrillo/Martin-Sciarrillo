@@ -5,5 +5,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sciarrillo-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sciarrillo/)
 [![Web](https://img.shields.io/badge/Web-aka.ms%2Ftincho-orange?style=flat-square)](https://aka.ms/tincho)
 
-👋 I am [@Martin-Sciarrillo](https://github.com/Martin-Sciarrillo) — Executive Technology Strategist at Microsoft Argentina. I work with C-level leaders to turn AI, data and cloud technologies into real business outcomes — not just innovation theater. Previously, I served as Director of Data & AI for Spanish South America and CTO at Microsoft Argentina.
+👋 I am [@Martin-Sciarrillo](https://aka.ms/tincho) — Executive Technology Strategist at Microsoft Argentina. I work with C-level leaders to turn AI, data and cloud technologies into real business outcomes — not just innovation theater. Previously, I served as Director of Data & AI for Spanish South America and CTO at Microsoft Argentina.
 
