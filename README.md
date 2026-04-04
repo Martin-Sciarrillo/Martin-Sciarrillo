@@ -1,4 +1,4 @@
-# 👋 I am [@Martin-Sciarrillo](https://aka.ms/tincho)
+# 👋 I am [Tincho Sciarrillo](https://aka.ms/tincho)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40MartinSciarrillo-239a3b.svg)](https://github.com/Martin-Sciarrillo)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Acatincho-58a1f2.svg)](https://twitter.com/Acatincho)
